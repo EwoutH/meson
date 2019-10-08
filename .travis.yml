@@ -9,6 +9,9 @@ branches:
 os:
   - linux
   - osx
+  
+dist: Bionic
+osx_image: xcode11
 
 compiler:
   - gcc
